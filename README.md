@@ -1,3 +1,3 @@
 # hello-world 
 # a bit about myself
-[!INCLUDE[sample include file](nother-file.md)]
+[!INCLUDE[sub.md](../includes/sub.md)]
